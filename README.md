@@ -1,4 +1,4 @@
-# Masai-Calculator
+# Calculator
 ***Features: -***
 - Addition
 - Subtraction
